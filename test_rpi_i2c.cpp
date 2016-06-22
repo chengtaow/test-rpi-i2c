@@ -5,7 +5,7 @@
 #include<linux/i2c.h>
 #include<linux/i2c-dev.h>
 #include<iomanip>
-#include<unistd>
+#include<unistd.h>
 //using BNO055 sensor, the address is 0x28
 
 using namespace std;
